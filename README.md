@@ -5,9 +5,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ausaf-aslam-730390167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ausaf-aslam-730390167/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ausaf.aslam.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ausaf.aslam.10" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ausaf.aslam.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ausaf.aslam.10/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/dark_knight_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/dark_knight_101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ausaf_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ausaf_10/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aslamausaf/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aslamausaf/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

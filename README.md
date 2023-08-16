@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ausaf Aslam</h1>
 <h3 align="center">A 3rd Year Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ausaf-10&label=Profile%20views&color=0e75b6&style=flat" alt="ausaf-10" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ausaf-aslam-730390167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ausaf-aslam-730390167/" height="30" width="40" /></a>

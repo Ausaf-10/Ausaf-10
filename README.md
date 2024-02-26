@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AUSAF ASLAM</h1>
 <h3 align="center">A 3rd Year Undergrad looking for Software Developer Roles</h3
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/71611ea84eedcc22c3a27dd040649cabf32efc9b32d55d1ab5c16bfe349829c2/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ausaf-10&label=Profile%20views&color=0e75b6&style=flat" alt="ausaf-10" /> </p>
 
